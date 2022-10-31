@@ -18,10 +18,20 @@ body {
   nav{
 	background-color: blanchedalmond;
 	margin: 0 auto;
+	padding: 0 auto;
+	text-align: center;
   }
 
-  main > h2 {
+  section > h2 {
 	text-align: center;
 	font-size: 25px;
+  }
+
+  section > ul {
+	text-align: center;
+  }
+
+  section > a {
+	text-align: center;
   }
   
